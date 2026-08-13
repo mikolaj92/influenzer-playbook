@@ -8,6 +8,9 @@ To jest **mój** notes. Nie teoria o marketingu. Korzystam z tego, kiedy wybiera
 | [arenas.md](arenas.md) | w jakim kostiumie mówić |
 | [mechanics.md](mechanics.md) | jak zdobywam ludzi i jak ich trzymam |
 | [x.md](x.md) | konkretnie X: komentarze, ratio |
+| [shorts.md](shorts.md) | Shorts / TikTok / Reels: gra w swipe |
 | [machine.md](machine.md) | pętla: opakuj, zmierz, podwój |
 
 Jedna linia, którą pamiętam: fantasy mówi, jaki kostium. Mechanika mówi, czy ktokolwiek zostanie. Fabryka mówi, co powtarzać.
+
+Per arena dokładam notes, jak wraca research z GitHuba (skills = jak się gra, nie SDK).
