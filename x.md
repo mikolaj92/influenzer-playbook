@@ -1,22 +1,18 @@
 # X
 
-Build-in-public *looks* like ship posts. The game often sits in **comments**.
+Build-in-public *wygląda* jak posty o shipie. Gram w **komentarzach**.
 
-Algo and people sit in rising threads. A comment with more engagement than its parent **borrows the parent's reach**. That is acquisition, not just a meme.
+Algo i ludzie siedzą w rising wątkach. Komentarz z większym engagementem niż parent pożycza jego zasięg. To acquisition, nie mem.
 
-A BIP post with no play in replies is an empty field.
+Post BIP bez gry w replies to puste pole. Nie robię tego.
 
 ## Ratio
 
-**Ratio** on X: a reply wins against the original.
+Odpowiedź wygrywa z oryginałem.
 
-Two faces, same charm:
+- **Mnie ratio’ują** — pod moim postem więcej replies niż lajków. Tłum przyszedł kłócić się. Post jest martwy.
+- **Ja kogoś ratio’uję** — mój komentarz ma więcej lajków niż post. Fatality: jedna linia zjada gospodarza.
 
-1. **You get ratio'd** — more replies than likes on your post. The crowd came to fight, not to nod. Death of the post.
-2. **You ratio someone** — your comment has more likes than the post itself. The fatality: one line in the thread eats the host.
+To widoczny znak, że wygrałem *cudzą* uwagę, nie swoją.
 
-Visible signal that someone won *borrowed* attention, not their own.
-
-## Acquisition / retention (short)
-
-See [mechanics.md](mechanics.md). On X specifically: first-hour velocity, replies under rising posts, format lock. Not broadcasting into an empty feed.
+Na X: pierwsza godzina, replies pod rising, lock formatu. Nie broadcasting w pustkę.
