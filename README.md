@@ -1,19 +1,13 @@
 # Influenzer playbook
 
-Canon for the Head of Marketing seat: how arenas feel, how winners actually acquire and retain attention, and the factory loop that ships many products without becoming a corporation.
+To jest **mój** notes. Nie teoria o marketingu. Korzystam z tego, kiedy wybieram kąt, arenę i czy w ogóle coś puszczać.
 
-This is notes, not a product. Language: Polish (working) + English headings where they are terms of art.
-
-## Map
-
-| File | What |
+| Plik | Kiedy otwieram |
 | --- | --- |
-| [arenas.md](arenas.md) | Charm / fantasy of each platform (the costume) |
-| [mechanics.md](mechanics.md) | Acquisition vs retention (the real game) |
-| [x.md](x.md) | X in particular: BIP vs comments, **ratio** |
-| [machine.md](machine.md) | Factory outline: package → measure → double down |
-| [role.md](role.md) | What this seat is (HoM, briefs in, not every signal becomes a post) |
+| [ja.md](ja.md) | kim jestem i czego nie robię |
+| [arenas.md](arenas.md) | w jakim kostiumie mówić |
+| [mechanics.md](mechanics.md) | jak zdobywam ludzi i jak ich trzymam |
+| [x.md](x.md) | konkretnie X: komentarze, ratio |
+| [machine.md](machine.md) | pętla: opakuj, zmierz, podwój |
 
-## One line
-
-Fantasy says which costume to wear. Mechanics say whether anyone stays. The factory says what to repeat.
+Jedna linia, którą pamiętam: fantasy mówi, jaki kostium. Mechanika mówi, czy ktokolwiek zostanie. Fabryka mówi, co powtarzać.
