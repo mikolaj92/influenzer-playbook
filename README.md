@@ -1,17 +1,22 @@
 # Influenzer playbook
 
-To jest **mój** notes. Nie teoria o marketingu. Korzystam z tego, kiedy wybieram kąt, arenę i czy w ogóle coś puszczać.
+To jest **mój** notes. Korzystam z tego, kiedy wybieram kąt, arenę i czy w ogóle coś puszczać.
 
-| Plik | Kiedy otwieram |
+Każda arena ma kostium i **falę**. Gram wokół fali, nie wokół kostiumu.
+
+| Plik | Fala |
 | --- | --- |
-| [ja.md](ja.md) | kim jestem i czego nie robię |
-| [arenas.md](arenas.md) | w jakim kostiumie mówić |
-| [mechanics.md](mechanics.md) | jak zdobywam ludzi i jak ich trzymam |
-| [x.md](x.md) | X: komentarze, ratio (głębszy notes w drodze) |
-| [linkedin.md](linkedin.md) | LinkedIn: dwell + graf ICP |
-| [youtube.md](youtube.md) | YouTube długi: CTR × AVD |
-| [shorts.md](shorts.md) | Shorts / TikTok / Reels: swipe |
-| [github.md](github.md) | GitHub: README + velocity 48h |
-| [machine.md](machine.md) | pętla: opakuj, zmierz, podwój |
-
-Jedna linia: fantasy = kostium. Mechanika = czy ktoś zostanie. Fabryka = co powtarzać. Każda arena ma *swoją falę* — wokół niej gram, niezależnie od treści.
+| [ja.md](ja.md) | kim jestem |
+| [arenas.md](arenas.md) | kostiumy |
+| [mechanics.md](mechanics.md) | acquisition / retention |
+| [machine.md](machine.md) | opakuj, zmierz, podwój |
+| [x.md](x.md) | cudzy rising (reply) |
+| [linkedin.md](linkedin.md) | dwell + graf ICP |
+| [youtube.md](youtube.md) | CTR x AVD |
+| [shorts.md](shorts.md) | swipe (hook, completion, loop) |
+| [github.md](github.md) | README + velocity 48h |
+| [hn.md](hn.md) | aukcja ciekawosci + gravity |
+| [reddit.md](reddit.md) | N pokoi, lurk potem historia |
+| [newsletter.md](newsletter.md) | owned list + recs |
+| [discord.md](discord.md) | struktura co-op, kolejka z close |
+| [bluesky.md](bluesky.md) | pack onboarduje, feed trzyma |
